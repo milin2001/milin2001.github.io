@@ -1,6 +1,8 @@
-# milin2001.github.io
+# Web-Based Objection Detection Application
 
-AI based object detection
+# Introduction
+
+# Timeline
 
 # Risks and Challenges Associated with Web-based Object Detection Systems
 
