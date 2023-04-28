@@ -3,7 +3,7 @@
 # Introduction
 
 
-# How to accesss and use the application!
+# How to access and use the application!
 To run the application in your own system.
 
 Hardware Requiremnt:
