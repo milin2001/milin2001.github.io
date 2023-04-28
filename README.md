@@ -28,6 +28,14 @@ Walk through the web application:
 3. Using the navigation bar you can access the image based detection page or live detection page (which requires you to allow accesss to camera).
 4. The website is user-friedly so just upload images or turn on the camera to see the magic!
 
+# Example for image based object detection
+
+Actual image:
+
+![dog cat](https://user-images.githubusercontent.com/61843678/235261373-478a3d0e-8453-4986-a9da-85e2e0dad17c.jpg)
+
+Image after processed through our application:
+
 
 
 # Risks and Challenges Associated with Web-based Object Detection Systems
