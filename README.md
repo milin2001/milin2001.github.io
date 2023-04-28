@@ -2,6 +2,7 @@
 
 # Introduction
 
+Object-based detection systems have transformed the field of computer vision, providing a versatile and adaptable solution for identifying and tracking objects in complex scenes. This technology has widespread applications in various industries, from improving security to enhancing autonomous vehicles and robotics. Our team has developed a web-based application that makes this technology even more accessible to a wider audience, offering both image-based detection and live detection capabilities with a user-friendly interface. With the convenience and accuracy of this application, object-based detection systems are becoming an increasingly valuable tool for improving efficiency and safety in countless industries.
 
 # How to access and use the application!
 To run the application in your own system.
