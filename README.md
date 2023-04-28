@@ -32,10 +32,11 @@ Walk through the web application:
 
 Actual image:
 
-![dog cat](https://user-images.githubusercontent.com/61843678/235261373-478a3d0e-8453-4986-a9da-85e2e0dad17c.jpg)
+![dog cat](https://user-images.githubusercontent.com/61843678/235261373-478a3d0e-8453-4986-a9da-85e2e0dad17c.jpg)  
 
 Image after processed through our application:
 
+![dog cat-detected](https://user-images.githubusercontent.com/61843678/235261644-430bef04-9448-4dac-a91c-931807bf4da5.png)
 
 
 # Risks and Challenges Associated with Web-based Object Detection Systems
