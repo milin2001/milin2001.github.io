@@ -7,16 +7,16 @@
 To run the application in your own system.
 
 Hardware Requiremnt:
-1. Operating System: Microsoft Windows 10 (32 or 64-bit) 
-2. RAM: Minimum 4 GB.
-3. Disk Space: Minimum 16 GB to run PhpStorm code.
-4. Access to web-cam
+1. Operating System: Microsoft Windows 10 (32 or 64-bit)
+2. RAM: Minimum 4 GB
+3. Disk Space: Minimum 16 GB to run PhpStorm code
+4. Access to a web-cam
 
 Software Requirement:
-1. IDE: PhpStorm, you will have to download it and set it up. (link to download PhpStorm: https://www.jetbrains.com/phpstorm/download/#section=windows)
-2. Require to dowloand Node.js as well and cofigure it withthe PHPStorm. (YouTube video link for the installation process: https://www.youtube.com/watch?v=yYbfB7z9Ld0)
-3. Will need the knowlodge of Tensorflow framework.
-4. Will have to setup the COCO-SSD model.
+1. IDE: PhpStorm, which can be downloaded and set up from this link: https://www.jetbrains.com/phpstorm/download/#section=windows
+2. Node.js, which should be downloaded and configured with PhpStorm. This YouTube video link provides a step-by-step guide for the installation process: https://www.youtube.com/watch?v=yYbfB7z9Ld0
+3. Knowledge of the Tensorflow framework
+4. Setup of the COCO-SSD model
 
 # To play with the web application directly!
 The static website has already been hosted using Github. Link to access the website is: https://milin2001.github.io/
