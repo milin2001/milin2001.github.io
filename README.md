@@ -2,7 +2,7 @@
 
 # Introduction
 
-# Timeline
+
 # How to accesss and use the application!
 To run the application in your own system.
 
