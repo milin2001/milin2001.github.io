@@ -5,6 +5,7 @@
 # Timeline
 # How to accesss and use the application!
 To run the application in your own system.
+
 Hardware Requiremnt:
 1. Operating System: Microsoft Windows 10 (32 or 64-bit) 
 2. RAM: Minimum 4 GB.
